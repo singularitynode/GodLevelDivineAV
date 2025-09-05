@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-09-06 03:36:47",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 50,
+    "divine_metric": 46.211715726000975
+  },
+  {
+    "timestamp": "2025-09-06 03:36:52",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 78,
+    "divine_metric": 65.270670596199
+  }
+]

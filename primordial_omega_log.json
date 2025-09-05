@@ -1,0 +1,2459 @@
+[
+  {
+    "timestamp": "2025-09-06 03:24:23",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:24:28",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:24:34",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 62,
+    "divine_metric": 55.11280285381469
+  },
+  {
+    "timestamp": "2025-09-06 03:24:39",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 78,
+    "divine_metric": 65.270670596199
+  },
+  {
+    "timestamp": "2025-09-06 03:24:45",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:24:50",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 92,
+    "divine_metric": 72.58974148490806
+  },
+  {
+    "timestamp": "2025-09-06 03:24:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 20,
+    "divine_metric": 19.7375320224904
+  },
+  {
+    "timestamp": "2025-09-06 03:25:01",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 4,
+    "divine_metric": 3.997868031116357
+  },
+  {
+    "timestamp": "2025-09-06 03:25:01",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 36,
+    "divine_metric": 34.521403413552086
+  },
+  {
+    "timestamp": "2025-09-06 03:25:06",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 12,
+    "divine_metric": 11.942729853438589
+  },
+  {
+    "timestamp": "2025-09-06 03:25:07",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 19,
+    "divine_metric": 18.77462058682854
+  },
+  {
+    "timestamp": "2025-09-06 03:25:12",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 8,
+    "divine_metric": 7.982976911113136
+  },
+  {
+    "timestamp": "2025-09-06 03:25:12",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:25:17",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 31,
+    "divine_metric": 30.04370971476541
+  },
+  {
+    "timestamp": "2025-09-06 03:25:23",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:25:23",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 43,
+    "divine_metric": 40.5321308689463
+  },
+  {
+    "timestamp": "2025-09-06 03:25:28",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 49,
+    "divine_metric": 45.42164326822591
+  },
+  {
+    "timestamp": "2025-09-06 03:25:28",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 56,
+    "divine_metric": 50.79774328978962
+  },
+  {
+    "timestamp": "2025-09-06 03:25:34",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 95,
+    "divine_metric": 73.97830512740042
+  },
+  {
+    "timestamp": "2025-09-06 03:25:34",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 97,
+    "divine_metric": 74.87042869693087
+  },
+  {
+    "timestamp": "2025-09-06 03:25:39",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 80,
+    "divine_metric": 66.40367702678489
+  },
+  {
+    "timestamp": "2025-09-06 03:25:40",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 28,
+    "divine_metric": 27.29050805631327
+  },
+  {
+    "timestamp": "2025-09-06 03:25:40",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 60,
+    "divine_metric": 53.70495669980353
+  },
+  {
+    "timestamp": "2025-09-06 03:25:45",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 43,
+    "divine_metric": 40.5321308689463
+  },
+  {
+    "timestamp": "2025-09-06 03:25:45",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:25:50",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 5,
+    "divine_metric": 4.995837495787998
+  },
+  {
+    "timestamp": "2025-09-06 03:25:51",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:25:56",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 48,
+    "divine_metric": 44.62436102487796
+  },
+  {
+    "timestamp": "2025-09-06 03:25:56",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 49,
+    "divine_metric": 45.42164326822591
+  },
+  {
+    "timestamp": "2025-09-06 03:26:01",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 41,
+    "divine_metric": 38.847268021606105
+  },
+  {
+    "timestamp": "2025-09-06 03:26:07",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 1,
+    "divine_metric": 0.999966667999946
+  },
+  {
+    "timestamp": "2025-09-06 03:26:07",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 77,
+    "divine_metric": 64.69294504417667
+  },
+  {
+    "timestamp": "2025-09-06 03:26:12",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 74,
+    "divine_metric": 62.914516141403546
+  },
+  {
+    "timestamp": "2025-09-06 03:26:12",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 14,
+    "divine_metric": 13.909244787845804
+  },
+  {
+    "timestamp": "2025-09-06 03:26:17",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 72,
+    "divine_metric": 61.6909302877065
+  },
+  {
+    "timestamp": "2025-09-06 03:26:18",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 99,
+    "divine_metric": 75.73623242165263
+  },
+  {
+    "timestamp": "2025-09-06 03:26:23",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 10,
+    "divine_metric": 9.966799462495581
+  },
+  {
+    "timestamp": "2025-09-06 03:26:28",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:26:34",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 42,
+    "divine_metric": 39.69304320050775
+  },
+  {
+    "timestamp": "2025-09-06 03:26:39",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:26:39",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 98,
+    "divine_metric": 75.3065904869552
+  },
+  {
+    "timestamp": "2025-09-06 03:26:45",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:26:45",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 80,
+    "divine_metric": 66.40367702678489
+  },
+  {
+    "timestamp": "2025-09-06 03:26:50",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:26:50",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:26:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 83,
+    "divine_metric": 68.04760061126619
+  },
+  {
+    "timestamp": "2025-09-06 03:27:01",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 44,
+    "divine_metric": 41.364444218713516
+  },
+  {
+    "timestamp": "2025-09-06 03:27:06",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 2,
+    "divine_metric": 1.9997333759930933
+  },
+  {
+    "timestamp": "2025-09-06 03:27:12",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 74,
+    "divine_metric": 62.914516141403546
+  },
+  {
+    "timestamp": "2025-09-06 03:27:12",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:27:17",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 16,
+    "divine_metric": 15.864850429749891
+  },
+  {
+    "timestamp": "2025-09-06 03:27:18",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 96,
+    "divine_metric": 74.42768673618373
+  },
+  {
+    "timestamp": "2025-09-06 03:27:23",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 99,
+    "divine_metric": 75.73623242165263
+  },
+  {
+    "timestamp": "2025-09-06 03:27:23",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 79,
+    "divine_metric": 65.8409035955251
+  },
+  {
+    "timestamp": "2025-09-06 03:27:28",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 48,
+    "divine_metric": 44.62436102487796
+  },
+  {
+    "timestamp": "2025-09-06 03:27:29",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 1,
+    "divine_metric": 0.999966667999946
+  },
+  {
+    "timestamp": "2025-09-06 03:27:34",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 30,
+    "divine_metric": 29.13126124515909
+  },
+  {
+    "timestamp": "2025-09-06 03:27:34",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 51,
+    "divine_metric": 46.99451989330377
+  },
+  {
+    "timestamp": "2025-09-06 03:27:39",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 85,
+    "divine_metric": 69.10694698329306
+  },
+  {
+    "timestamp": "2025-09-06 03:27:39",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 57,
+    "divine_metric": 51.535927800740964
+  },
+  {
+    "timestamp": "2025-09-06 03:27:44",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 17,
+    "divine_metric": 16.838104587081475
+  },
+  {
+    "timestamp": "2025-09-06 03:27:50",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 27,
+    "divine_metric": 26.362483547220332
+  },
+  {
+    "timestamp": "2025-09-06 03:27:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 56,
+    "divine_metric": 50.79774328978962
+  },
+  {
+    "timestamp": "2025-09-06 03:28:01",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 65,
+    "divine_metric": 57.166996608511724
+  },
+  {
+    "timestamp": "2025-09-06 03:28:06",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 71,
+    "divine_metric": 61.06768328168442
+  },
+  {
+    "timestamp": "2025-09-06 03:28:12",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:28:17",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 60,
+    "divine_metric": 53.70495669980353
+  },
+  {
+    "timestamp": "2025-09-06 03:29:25",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 29,
+    "divine_metric": 28.21348126696341
+  },
+  {
+    "timestamp": "2025-09-06 03:29:30",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 28,
+    "divine_metric": 27.29050805631327
+  },
+  {
+    "timestamp": "2025-09-06 03:29:36",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 26,
+    "divine_metric": 25.429553262639114
+  },
+  {
+    "timestamp": "2025-09-06 03:29:41",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 14,
+    "divine_metric": 13.909244787845804
+  },
+  {
+    "timestamp": "2025-09-06 03:29:46",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 2,
+    "divine_metric": 1.9997333759930933
+  },
+  {
+    "timestamp": "2025-09-06 03:29:52",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 95,
+    "divine_metric": 73.97830512740042
+  },
+  {
+    "timestamp": "2025-09-06 03:29:52",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:29:57",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 48,
+    "divine_metric": 44.62436102487796
+  },
+  {
+    "timestamp": "2025-09-06 03:29:58",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 31,
+    "divine_metric": 30.04370971476541
+  },
+  {
+    "timestamp": "2025-09-06 03:30:03",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:30:08",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 66,
+    "divine_metric": 57.83634130445058
+  },
+  {
+    "timestamp": "2025-09-06 03:30:14",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 47,
+    "divine_metric": 43.819931483276775
+  },
+  {
+    "timestamp": "2025-09-06 03:30:14",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 59,
+    "divine_metric": 52.989560752752936
+  },
+  {
+    "timestamp": "2025-09-06 03:30:19",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 66,
+    "divine_metric": 57.83634130445058
+  },
+  {
+    "timestamp": "2025-09-06 03:30:19",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 86,
+    "divine_metric": 69.62576726866814
+  },
+  {
+    "timestamp": "2025-09-06 03:30:25",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:30:28",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:30:33",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 14,
+    "divine_metric": 13.909244787845804
+  },
+  {
+    "timestamp": "2025-09-06 03:30:33",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 71,
+    "divine_metric": 61.06768328168442
+  },
+  {
+    "timestamp": "2025-09-06 03:30:38",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 76,
+    "divine_metric": 64.10769611853465
+  },
+  {
+    "timestamp": "2025-09-06 03:30:39",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:30:44",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:30:44",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 76,
+    "divine_metric": 64.10769611853465
+  },
+  {
+    "timestamp": "2025-09-06 03:30:49",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 20,
+    "divine_metric": 19.7375320224904
+  },
+  {
+    "timestamp": "2025-09-06 03:30:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 91,
+    "divine_metric": 72.11322540766999
+  },
+  {
+    "timestamp": "2025-09-06 03:31:00",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:31:06",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:31:11",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:31:11",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 77,
+    "divine_metric": 64.69294504417667
+  },
+  {
+    "timestamp": "2025-09-06 03:31:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 65,
+    "divine_metric": 57.166996608511724
+  },
+  {
+    "timestamp": "2025-09-06 03:31:17",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 96,
+    "divine_metric": 74.42768673618373
+  },
+  {
+    "timestamp": "2025-09-06 03:31:22",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 0,
+    "divine_metric": 0.0
+  },
+  {
+    "timestamp": "2025-09-06 03:31:22",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 92,
+    "divine_metric": 72.58974148490806
+  },
+  {
+    "timestamp": "2025-09-06 03:31:27",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 43,
+    "divine_metric": 40.5321308689463
+  },
+  {
+    "timestamp": "2025-09-06 03:31:33",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:31:33",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 21,
+    "divine_metric": 20.69664997294526
+  },
+  {
+    "timestamp": "2025-09-06 03:31:38",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 80,
+    "divine_metric": 66.40367702678489
+  },
+  {
+    "timestamp": "2025-09-06 03:31:38",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 16,
+    "divine_metric": 15.864850429749891
+  },
+  {
+    "timestamp": "2025-09-06 03:31:44",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 94,
+    "divine_metric": 73.52222529158692
+  },
+  {
+    "timestamp": "2025-09-06 03:31:44",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 83,
+    "divine_metric": 68.04760061126619
+  },
+  {
+    "timestamp": "2025-09-06 03:31:49",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 56,
+    "divine_metric": 50.79774328978962
+  },
+  {
+    "timestamp": "2025-09-06 03:31:54",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 41,
+    "divine_metric": 38.847268021606105
+  },
+  {
+    "timestamp": "2025-09-06 03:32:00",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 69,
+    "divine_metric": 59.79820004989412
+  },
+  {
+    "timestamp": "2025-09-06 03:32:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 54,
+    "divine_metric": 49.298796667532436
+  },
+  {
+    "timestamp": "2025-09-06 03:32:05",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 40,
+    "divine_metric": 37.99489622552249
+  },
+  {
+    "timestamp": "2025-09-06 03:32:11",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 13,
+    "divine_metric": 12.927258360605833
+  },
+  {
+    "timestamp": "2025-09-06 03:32:11",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 97,
+    "divine_metric": 74.87042869693087
+  },
+  {
+    "timestamp": "2025-09-06 03:32:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 90,
+    "divine_metric": 71.62978701990244
+  },
+  {
+    "timestamp": "2025-09-06 03:32:16",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 0,
+    "divine_metric": 0.0
+  },
+  {
+    "timestamp": "2025-09-06 03:32:21",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 6,
+    "divine_metric": 5.99281035291435
+  },
+  {
+    "timestamp": "2025-09-06 03:32:27",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 81,
+    "divine_metric": 66.95902596187709
+  },
+  {
+    "timestamp": "2025-09-06 03:32:32",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 41,
+    "divine_metric": 38.847268021606105
+  },
+  {
+    "timestamp": "2025-09-06 03:32:38",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 72,
+    "divine_metric": 61.6909302877065
+  },
+  {
+    "timestamp": "2025-09-06 03:32:43",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 10,
+    "divine_metric": 9.966799462495581
+  },
+  {
+    "timestamp": "2025-09-06 03:32:48",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 59,
+    "divine_metric": 52.989560752752936
+  },
+  {
+    "timestamp": "2025-09-06 03:32:54",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 40,
+    "divine_metric": 37.99489622552249
+  },
+  {
+    "timestamp": "2025-09-06 03:32:54",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 34,
+    "divine_metric": 32.747739480870536
+  },
+  {
+    "timestamp": "2025-09-06 03:32:59",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 47,
+    "divine_metric": 43.819931483276775
+  },
+  {
+    "timestamp": "2025-09-06 03:33:00",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 80,
+    "divine_metric": 66.40367702678489
+  },
+  {
+    "timestamp": "2025-09-06 03:33:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 60,
+    "divine_metric": 53.70495669980353
+  },
+  {
+    "timestamp": "2025-09-06 03:33:10",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 31,
+    "divine_metric": 30.04370971476541
+  },
+  {
+    "timestamp": "2025-09-06 03:33:10",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 38,
+    "divine_metric": 36.270746757805114
+  },
+  {
+    "timestamp": "2025-09-06 03:33:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 7,
+    "divine_metric": 6.988589031642898
+  },
+  {
+    "timestamp": "2025-09-06 03:33:16",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 99,
+    "divine_metric": 75.73623242165263
+  },
+  {
+    "timestamp": "2025-09-06 03:33:21",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 36,
+    "divine_metric": 34.521403413552086
+  },
+  {
+    "timestamp": "2025-09-06 03:33:21",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 54,
+    "divine_metric": 49.298796667532436
+  },
+  {
+    "timestamp": "2025-09-06 03:33:26",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 45,
+    "divine_metric": 42.189900525000795
+  },
+  {
+    "timestamp": "2025-09-06 03:33:27",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 46,
+    "divine_metric": 43.00842114019795
+  },
+  {
+    "timestamp": "2025-09-06 03:33:32",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 13,
+    "divine_metric": 12.927258360605833
+  },
+  {
+    "timestamp": "2025-09-06 03:35:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 54,
+    "divine_metric": 49.298796667532436
+  },
+  {
+    "timestamp": "2025-09-06 03:35:10",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 94,
+    "divine_metric": 73.52222529158692
+  },
+  {
+    "timestamp": "2025-09-06 03:35:15",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 51,
+    "divine_metric": 46.99451989330377
+  },
+  {
+    "timestamp": "2025-09-06 03:35:21",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 50,
+    "divine_metric": 46.211715726000975
+  },
+  {
+    "timestamp": "2025-09-06 03:35:26",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 11,
+    "divine_metric": 10.955847021442953
+  },
+  {
+    "timestamp": "2025-09-06 03:35:32",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 83,
+    "divine_metric": 68.04760061126619
+  },
+  {
+    "timestamp": "2025-09-06 03:35:37",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 85,
+    "divine_metric": 69.10694698329306
+  },
+  {
+    "timestamp": "2025-09-06 03:35:42",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 96,
+    "divine_metric": 74.42768673618373
+  },
+  {
+    "timestamp": "2025-09-06 03:35:49",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 51,
+    "divine_metric": 46.99451989330377
+  },
+  {
+    "timestamp": "2025-09-06 03:35:50",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 18,
+    "divine_metric": 17.80808681173302
+  },
+  {
+    "timestamp": "2025-09-06 03:35:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 39,
+    "divine_metric": 37.13602278765077
+  },
+  {
+    "timestamp": "2025-09-06 03:35:55",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 38,
+    "divine_metric": 36.270746757805114
+  },
+  {
+    "timestamp": "2025-09-06 03:36:00",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 68,
+    "divine_metric": 59.151939543181655
+  },
+  {
+    "timestamp": "2025-09-06 03:36:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 65,
+    "divine_metric": 57.166996608511724
+  },
+  {
+    "timestamp": "2025-09-06 03:36:06",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 19,
+    "divine_metric": 18.77462058682854
+  },
+  {
+    "timestamp": "2025-09-06 03:36:11",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 47,
+    "divine_metric": 43.819931483276775
+  },
+  {
+    "timestamp": "2025-09-06 03:36:11",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 92,
+    "divine_metric": 72.58974148490806
+  },
+  {
+    "timestamp": "2025-09-06 03:36:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 96,
+    "divine_metric": 74.42768673618373
+  },
+  {
+    "timestamp": "2025-09-06 03:36:17",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 7,
+    "divine_metric": 6.988589031642898
+  },
+  {
+    "timestamp": "2025-09-06 03:36:22",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 68,
+    "divine_metric": 59.151939543181655
+  },
+  {
+    "timestamp": "2025-09-06 03:36:27",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 40,
+    "divine_metric": 37.99489622552249
+  },
+  {
+    "timestamp": "2025-09-06 03:36:33",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 30,
+    "divine_metric": 29.13126124515909
+  },
+  {
+    "timestamp": "2025-09-06 03:36:38",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 61,
+    "divine_metric": 54.41270988535675
+  },
+  {
+    "timestamp": "2025-09-06 03:36:43",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 57,
+    "divine_metric": 51.535927800740964
+  },
+  {
+    "timestamp": "2025-09-06 03:36:49",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 77,
+    "divine_metric": 64.69294504417667
+  },
+  {
+    "timestamp": "2025-09-06 03:36:54",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 62,
+    "divine_metric": 55.11280285381469
+  },
+  {
+    "timestamp": "2025-09-06 03:37:00",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 44,
+    "divine_metric": 41.364444218713516
+  },
+  {
+    "timestamp": "2025-09-06 03:37:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 20,
+    "divine_metric": 19.7375320224904
+  },
+  {
+    "timestamp": "2025-09-06 03:37:10",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 35,
+    "divine_metric": 33.63755443363322
+  },
+  {
+    "timestamp": "2025-09-06 03:37:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 16,
+    "divine_metric": 15.864850429749891
+  },
+  {
+    "timestamp": "2025-09-06 03:37:21",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 59,
+    "divine_metric": 52.989560752752936
+  },
+  {
+    "timestamp": "2025-09-06 03:37:27",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 46,
+    "divine_metric": 43.00842114019795
+  },
+  {
+    "timestamp": "2025-09-06 03:37:32",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 90,
+    "divine_metric": 71.62978701990244
+  },
+  {
+    "timestamp": "2025-09-06 03:37:37",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 60,
+    "divine_metric": 53.70495669980353
+  },
+  {
+    "timestamp": "2025-09-06 03:37:43",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 21,
+    "divine_metric": 20.69664997294526
+  },
+  {
+    "timestamp": "2025-09-06 03:37:48",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 76,
+    "divine_metric": 64.10769611853465
+  },
+  {
+    "timestamp": "2025-09-06 03:37:54",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 38,
+    "divine_metric": 36.270746757805114
+  },
+  {
+    "timestamp": "2025-09-06 03:37:54",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 52,
+    "divine_metric": 47.7700012168498
+  },
+  {
+    "timestamp": "2025-09-06 03:37:59",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 92,
+    "divine_metric": 72.58974148490806
+  },
+  {
+    "timestamp": "2025-09-06 03:38:04",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 58,
+    "divine_metric": 52.26654296858209
+  },
+  {
+    "timestamp": "2025-09-06 03:38:05",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 0,
+    "divine_metric": 0.0
+  },
+  {
+    "timestamp": "2025-09-06 03:38:10",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:38:10",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 56,
+    "divine_metric": 50.79774328978962
+  },
+  {
+    "timestamp": "2025-09-06 03:38:15",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 24,
+    "divine_metric": 23.549574953849795
+  },
+  {
+    "timestamp": "2025-09-06 03:38:15",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 97,
+    "divine_metric": 74.87042869693087
+  },
+  {
+    "timestamp": "2025-09-06 03:38:21",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 65,
+    "divine_metric": 57.166996608511724
+  },
+  {
+    "timestamp": "2025-09-06 03:38:21",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 62,
+    "divine_metric": 55.11280285381469
+  },
+  {
+    "timestamp": "2025-09-06 03:38:26",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:38:31",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 88,
+    "divine_metric": 70.64193203972353
+  },
+  {
+    "timestamp": "2025-09-06 03:38:37",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 84,
+    "divine_metric": 68.58090622290945
+  },
+  {
+    "timestamp": "2025-09-06 03:38:42",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 22,
+    "divine_metric": 21.65180614930288
+  },
+  {
+    "timestamp": "2025-09-06 03:38:47",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 6,
+    "divine_metric": 5.99281035291435
+  },
+  {
+    "timestamp": "2025-09-06 03:38:53",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 6,
+    "divine_metric": 5.99281035291435
+  },
+  {
+    "timestamp": "2025-09-06 03:38:58",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 14,
+    "divine_metric": 13.909244787845804
+  },
+  {
+    "timestamp": "2025-09-06 03:39:04",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 69,
+    "divine_metric": 59.79820004989412
+  },
+  {
+    "timestamp": "2025-09-06 03:39:09",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 11,
+    "divine_metric": 10.955847021442953
+  },
+  {
+    "timestamp": "2025-09-06 03:39:14",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 74,
+    "divine_metric": 62.914516141403546
+  },
+  {
+    "timestamp": "2025-09-06 03:39:20",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 72,
+    "divine_metric": 61.6909302877065
+  },
+  {
+    "timestamp": "2025-09-06 03:39:25",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 10,
+    "divine_metric": 9.966799462495581
+  },
+  {
+    "timestamp": "2025-09-06 03:39:31",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 7,
+    "divine_metric": 6.988589031642898
+  },
+  {
+    "timestamp": "2025-09-06 03:39:36",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 69,
+    "divine_metric": 59.79820004989412
+  },
+  {
+    "timestamp": "2025-09-06 03:39:41",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 72,
+    "divine_metric": 61.6909302877065
+  },
+  {
+    "timestamp": "2025-09-06 03:39:42",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 56,
+    "divine_metric": 50.79774328978962
+  },
+  {
+    "timestamp": "2025-09-06 03:39:47",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 2,
+    "divine_metric": 1.9997333759930933
+  },
+  {
+    "timestamp": "2025-09-06 03:39:52",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:39:53",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 99,
+    "divine_metric": 75.73623242165263
+  },
+  {
+    "timestamp": "2025-09-06 03:39:58",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 49,
+    "divine_metric": 45.42164326822591
+  },
+  {
+    "timestamp": "2025-09-06 03:39:58",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:40:03",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 1,
+    "divine_metric": 0.999966667999946
+  },
+  {
+    "timestamp": "2025-09-06 03:40:08",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:40:14",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 57,
+    "divine_metric": 51.535927800740964
+  },
+  {
+    "timestamp": "2025-09-06 03:40:19",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 17,
+    "divine_metric": 16.838104587081475
+  },
+  {
+    "timestamp": "2025-09-06 03:40:25",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 84,
+    "divine_metric": 68.58090622290945
+  },
+  {
+    "timestamp": "2025-09-06 03:40:30",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:40:35",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 10,
+    "divine_metric": 9.966799462495581
+  },
+  {
+    "timestamp": "2025-09-06 03:40:41",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 46,
+    "divine_metric": 43.00842114019795
+  },
+  {
+    "timestamp": "2025-09-06 03:40:46",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 0,
+    "divine_metric": 0.0
+  },
+  {
+    "timestamp": "2025-09-06 03:40:51",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 79,
+    "divine_metric": 65.8409035955251
+  },
+  {
+    "timestamp": "2025-09-06 03:40:57",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 37,
+    "divine_metric": 35.3991712477046
+  },
+  {
+    "timestamp": "2025-09-06 03:41:02",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:41:03",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 13,
+    "divine_metric": 12.927258360605833
+  },
+  {
+    "timestamp": "2025-09-06 03:41:08",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 42,
+    "divine_metric": 39.69304320050775
+  },
+  {
+    "timestamp": "2025-09-06 03:41:08",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 18,
+    "divine_metric": 17.80808681173302
+  },
+  {
+    "timestamp": "2025-09-06 03:41:13",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 50,
+    "divine_metric": 46.211715726000975
+  },
+  {
+    "timestamp": "2025-09-06 03:41:19",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 59,
+    "divine_metric": 52.989560752752936
+  },
+  {
+    "timestamp": "2025-09-06 03:41:24",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 30,
+    "divine_metric": 29.13126124515909
+  },
+  {
+    "timestamp": "2025-09-06 03:41:24",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:41:29",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 46,
+    "divine_metric": 43.00842114019795
+  },
+  {
+    "timestamp": "2025-09-06 03:41:35",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:41:40",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 22,
+    "divine_metric": 21.65180614930288
+  },
+  {
+    "timestamp": "2025-09-06 03:41:46",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 43,
+    "divine_metric": 40.5321308689463
+  },
+  {
+    "timestamp": "2025-09-06 03:41:51",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 33,
+    "divine_metric": 31.852077690277085
+  },
+  {
+    "timestamp": "2025-09-06 03:41:51",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:41:56",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 55,
+    "divine_metric": 50.05202111902353
+  },
+  {
+    "timestamp": "2025-09-06 03:41:57",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 90,
+    "divine_metric": 71.62978701990244
+  },
+  {
+    "timestamp": "2025-09-06 03:42:02",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 89,
+    "divine_metric": 71.13937318189625
+  },
+  {
+    "timestamp": "2025-09-06 03:42:07",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:42:13",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 77,
+    "divine_metric": 64.69294504417667
+  },
+  {
+    "timestamp": "2025-09-06 03:42:13",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 0,
+    "divine_metric": 0.0
+  },
+  {
+    "timestamp": "2025-09-06 03:42:18",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 82,
+    "divine_metric": 67.50698748386078
+  },
+  {
+    "timestamp": "2025-09-06 03:42:18",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 32,
+    "divine_metric": 30.950692121263845
+  },
+  {
+    "timestamp": "2025-09-06 03:42:23",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 36,
+    "divine_metric": 34.521403413552086
+  },
+  {
+    "timestamp": "2025-09-06 03:42:24",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 71,
+    "divine_metric": 61.06768328168442
+  },
+  {
+    "timestamp": "2025-09-06 03:42:29",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 13,
+    "divine_metric": 12.927258360605833
+  },
+  {
+    "timestamp": "2025-09-06 03:42:29",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 64,
+    "divine_metric": 56.4899552846225
+  },
+  {
+    "timestamp": "2025-09-06 03:42:34",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 51,
+    "divine_metric": 46.99451989330377
+  },
+  {
+    "timestamp": "2025-09-06 03:42:35",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 88,
+    "divine_metric": 70.64193203972353
+  },
+  {
+    "timestamp": "2025-09-06 03:42:40",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 17,
+    "divine_metric": 16.838104587081475
+  },
+  {
+    "timestamp": "2025-09-06 03:42:40",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 4,
+    "divine_metric": 3.997868031116357
+  },
+  {
+    "timestamp": "2025-09-06 03:42:45",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:42:45",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 3,
+    "divine_metric": 2.9991003238820144
+  },
+  {
+    "timestamp": "2025-09-06 03:42:51",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 19,
+    "divine_metric": 18.77462058682854
+  },
+  {
+    "timestamp": "2025-09-06 03:42:51",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 57,
+    "divine_metric": 51.535927800740964
+  },
+  {
+    "timestamp": "2025-09-06 03:42:56",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 21,
+    "divine_metric": 20.69664997294526
+  },
+  {
+    "timestamp": "2025-09-06 03:43:01",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 21,
+    "divine_metric": 20.69664997294526
+  },
+  {
+    "timestamp": "2025-09-06 03:43:07",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 95,
+    "divine_metric": 73.97830512740042
+  },
+  {
+    "timestamp": "2025-09-06 03:43:12",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 58,
+    "divine_metric": 52.26654296858209
+  },
+  {
+    "timestamp": "2025-09-06 03:43:18",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 41,
+    "divine_metric": 38.847268021606105
+  },
+  {
+    "timestamp": "2025-09-06 03:43:23",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 43,
+    "divine_metric": 40.5321308689463
+  },
+  {
+    "timestamp": "2025-09-06 03:43:28",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 69,
+    "divine_metric": 59.79820004989412
+  },
+  {
+    "timestamp": "2025-09-06 03:43:34",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 47,
+    "divine_metric": 43.819931483276775
+  },
+  {
+    "timestamp": "2025-09-06 03:43:39",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 97,
+    "divine_metric": 74.87042869693087
+  },
+  {
+    "timestamp": "2025-09-06 03:43:45",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 93,
+    "divine_metric": 73.05938960959438
+  },
+  {
+    "timestamp": "2025-09-06 03:43:50",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 19,
+    "divine_metric": 18.77462058682854
+  },
+  {
+    "timestamp": "2025-09-06 03:43:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 35,
+    "divine_metric": 33.63755443363322
+  },
+  {
+    "timestamp": "2025-09-06 03:44:01",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:44:06",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 52,
+    "divine_metric": 47.7700012168498
+  },
+  {
+    "timestamp": "2025-09-06 03:44:12",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:44:17",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 10,
+    "divine_metric": 9.966799462495581
+  },
+  {
+    "timestamp": "2025-09-06 03:44:17",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 65,
+    "divine_metric": 57.166996608511724
+  },
+  {
+    "timestamp": "2025-09-06 03:44:22",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:44:23",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 74,
+    "divine_metric": 62.914516141403546
+  },
+  {
+    "timestamp": "2025-09-06 03:44:28",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 44,
+    "divine_metric": 41.364444218713516
+  },
+  {
+    "timestamp": "2025-09-06 03:44:28",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 93,
+    "divine_metric": 73.05938960959438
+  },
+  {
+    "timestamp": "2025-09-06 03:44:33",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 34,
+    "divine_metric": 32.747739480870536
+  },
+  {
+    "timestamp": "2025-09-06 03:44:39",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 82,
+    "divine_metric": 67.50698748386078
+  },
+  {
+    "timestamp": "2025-09-06 03:44:44",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 71,
+    "divine_metric": 61.06768328168442
+  },
+  {
+    "timestamp": "2025-09-06 03:44:50",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:44:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 4,
+    "divine_metric": 3.997868031116357
+  },
+  {
+    "timestamp": "2025-09-06 03:45:00",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 24,
+    "divine_metric": 23.549574953849795
+  },
+  {
+    "timestamp": "2025-09-06 03:45:01",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:45:06",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 31,
+    "divine_metric": 30.04370971476541
+  },
+  {
+    "timestamp": "2025-09-06 03:45:06",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 48,
+    "divine_metric": 44.62436102487796
+  },
+  {
+    "timestamp": "2025-09-06 03:45:11",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 63,
+    "divine_metric": 55.80522155596243
+  },
+  {
+    "timestamp": "2025-09-06 03:45:12",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 84,
+    "divine_metric": 68.58090622290945
+  },
+  {
+    "timestamp": "2025-09-06 03:45:17",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:45:17",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 33,
+    "divine_metric": 31.852077690277085
+  },
+  {
+    "timestamp": "2025-09-06 03:45:22",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 26,
+    "divine_metric": 25.429553262639114
+  },
+  {
+    "timestamp": "2025-09-06 03:45:22",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 48,
+    "divine_metric": 44.62436102487796
+  },
+  {
+    "timestamp": "2025-09-06 03:45:27",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 60,
+    "divine_metric": 53.70495669980353
+  },
+  {
+    "timestamp": "2025-09-06 03:45:28",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 52,
+    "divine_metric": 47.7700012168498
+  },
+  {
+    "timestamp": "2025-09-06 03:45:33",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 19,
+    "divine_metric": 18.77462058682854
+  },
+  {
+    "timestamp": "2025-09-06 03:45:33",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 79,
+    "divine_metric": 65.8409035955251
+  },
+  {
+    "timestamp": "2025-09-06 03:45:38",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 59,
+    "divine_metric": 52.989560752752936
+  },
+  {
+    "timestamp": "2025-09-06 03:45:39",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 38,
+    "divine_metric": 36.270746757805114
+  },
+  {
+    "timestamp": "2025-09-06 03:45:44",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 5,
+    "divine_metric": 4.995837495787998
+  },
+  {
+    "timestamp": "2025-09-06 03:45:44",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:45:49",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 57,
+    "divine_metric": 51.535927800740964
+  },
+  {
+    "timestamp": "2025-09-06 03:45:49",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:45:55",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 55,
+    "divine_metric": 50.05202111902353
+  },
+  {
+    "timestamp": "2025-09-06 03:46:00",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 86,
+    "divine_metric": 69.62576726866814
+  },
+  {
+    "timestamp": "2025-09-06 03:46:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 20,
+    "divine_metric": 19.7375320224904
+  },
+  {
+    "timestamp": "2025-09-06 03:46:11",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 18,
+    "divine_metric": 17.80808681173302
+  },
+  {
+    "timestamp": "2025-09-06 03:46:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 76,
+    "divine_metric": 64.10769611853465
+  },
+  {
+    "timestamp": "2025-09-06 03:46:16",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 43,
+    "divine_metric": 40.5321308689463
+  },
+  {
+    "timestamp": "2025-09-06 03:46:22",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 68,
+    "divine_metric": 59.151939543181655
+  },
+  {
+    "timestamp": "2025-09-06 03:46:22",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 68,
+    "divine_metric": 59.151939543181655
+  },
+  {
+    "timestamp": "2025-09-06 03:46:27",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 40,
+    "divine_metric": 37.99489622552249
+  },
+  {
+    "timestamp": "2025-09-06 03:46:27",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 21,
+    "divine_metric": 20.69664997294526
+  },
+  {
+    "timestamp": "2025-09-06 03:46:32",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 67,
+    "divine_metric": 58.497988288072875
+  },
+  {
+    "timestamp": "2025-09-06 03:46:33",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 80,
+    "divine_metric": 66.40367702678489
+  },
+  {
+    "timestamp": "2025-09-06 03:46:38",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 2,
+    "divine_metric": 1.9997333759930933
+  },
+  {
+    "timestamp": "2025-09-06 03:46:38",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 45,
+    "divine_metric": 42.189900525000795
+  },
+  {
+    "timestamp": "2025-09-06 03:46:43",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:46:43",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 86,
+    "divine_metric": 69.62576726866814
+  },
+  {
+    "timestamp": "2025-09-06 03:46:49",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 24,
+    "divine_metric": 23.549574953849795
+  },
+  {
+    "timestamp": "2025-09-06 03:46:49",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 70,
+    "divine_metric": 60.43677771171635
+  },
+  {
+    "timestamp": "2025-09-06 03:46:54",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 16,
+    "divine_metric": 15.864850429749891
+  },
+  {
+    "timestamp": "2025-09-06 03:46:54",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 59,
+    "divine_metric": 52.989560752752936
+  },
+  {
+    "timestamp": "2025-09-06 03:46:59",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 83,
+    "divine_metric": 68.04760061126619
+  },
+  {
+    "timestamp": "2025-09-06 03:47:05",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:47:10",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 34,
+    "divine_metric": 32.747739480870536
+  },
+  {
+    "timestamp": "2025-09-06 03:47:11",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 37,
+    "divine_metric": 35.3991712477046
+  },
+  {
+    "timestamp": "2025-09-06 03:47:16",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 33,
+    "divine_metric": 31.852077690277085
+  },
+  {
+    "timestamp": "2025-09-06 03:47:16",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 99,
+    "divine_metric": 75.73623242165263
+  },
+  {
+    "timestamp": "2025-09-06 03:47:21",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 96,
+    "divine_metric": 74.42768673618373
+  },
+  {
+    "timestamp": "2025-09-06 03:47:21",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 53,
+    "divine_metric": 48.53810906053715
+  },
+  {
+    "timestamp": "2025-09-06 03:47:26",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 2,
+    "divine_metric": 1.9997333759930933
+  },
+  {
+    "timestamp": "2025-09-06 03:47:27",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 78,
+    "divine_metric": 65.270670596199
+  },
+  {
+    "timestamp": "2025-09-06 03:47:32",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 90,
+    "divine_metric": 71.62978701990244
+  },
+  {
+    "timestamp": "2025-09-06 03:47:37",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:47:43",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 86,
+    "divine_metric": 69.62576726866814
+  },
+  {
+    "timestamp": "2025-09-06 03:47:48",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 38,
+    "divine_metric": 36.270746757805114
+  },
+  {
+    "timestamp": "2025-09-06 03:47:53",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 12,
+    "divine_metric": 11.942729853438589
+  },
+  {
+    "timestamp": "2025-09-06 03:47:59",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 14,
+    "divine_metric": 13.909244787845804
+  },
+  {
+    "timestamp": "2025-09-06 03:48:04",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 95,
+    "divine_metric": 73.97830512740042
+  },
+  {
+    "timestamp": "2025-09-06 03:48:04",
+    "file": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.25070.5-0\\MsMpEng.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 65,
+    "divine_metric": 57.166996608511724
+  },
+  {
+    "timestamp": "2025-09-06 03:48:10",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 15,
+    "divine_metric": 14.888503362331798
+  },
+  {
+    "timestamp": "2025-09-06 03:48:15",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 87,
+    "divine_metric": 70.13741309383124
+  },
+  {
+    "timestamp": "2025-09-06 03:48:20",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 27,
+    "divine_metric": 26.362483547220332
+  },
+  {
+    "timestamp": "2025-09-06 03:48:26",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 28,
+    "divine_metric": 27.29050805631327
+  },
+  {
+    "timestamp": "2025-09-06 03:48:31",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 82,
+    "divine_metric": 67.50698748386078
+  },
+  {
+    "timestamp": "2025-09-06 03:48:37",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 0,
+    "divine_metric": 0.0
+  },
+  {
+    "timestamp": "2025-09-06 03:48:42",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 5,
+    "divine_metric": 4.995837495787998
+  },
+  {
+    "timestamp": "2025-09-06 03:48:42",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  },
+  {
+    "timestamp": "2025-09-06 03:48:47",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 85,
+    "divine_metric": 69.10694698329306
+  },
+  {
+    "timestamp": "2025-09-06 03:48:48",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 16,
+    "divine_metric": 15.864850429749891
+  },
+  {
+    "timestamp": "2025-09-06 03:48:53",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 40,
+    "divine_metric": 37.99489622552249
+  },
+  {
+    "timestamp": "2025-09-06 03:48:53",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 9,
+    "divine_metric": 8.97577847471601
+  },
+  {
+    "timestamp": "2025-09-06 03:48:58",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 44,
+    "divine_metric": 41.364444218713516
+  },
+  {
+    "timestamp": "2025-09-06 03:48:58",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 41,
+    "divine_metric": 38.847268021606105
+  },
+  {
+    "timestamp": "2025-09-06 03:49:04",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 8,
+    "divine_metric": 7.982976911113136
+  },
+  {
+    "timestamp": "2025-09-06 03:49:04",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 16,
+    "divine_metric": 15.864850429749891
+  },
+  {
+    "timestamp": "2025-09-06 03:49:09",
+    "file": "System Idle Process",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 92,
+    "divine_metric": 72.58974148490806
+  },
+  {
+    "timestamp": "2025-09-06 03:49:09",
+    "file": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+    "message": "High CPU usage - potential threat",
+    "threat_score": 23,
+    "divine_metric": 22.602835227867097
+  }
+]
